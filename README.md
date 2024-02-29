@@ -26,3 +26,9 @@ curl -fLo ~/.vim/autoload/plug.vim --create-dirs \
 4. Install plugins:
 
 Enter vim and type the command ```:PlugInstall```.
+
+5. Update screenrc
+
+To reduce lag, add the following line to your ```~/.screenrc```:
+
+```maptimeout 0```
