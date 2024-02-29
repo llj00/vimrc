@@ -2,8 +2,6 @@
 
 A lightweight vimrc that has all the essentials.
 
-<img src="preview.png">
-
 ## Setup
 
 1. Install vim and curl:
